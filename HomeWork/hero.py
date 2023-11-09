@@ -84,7 +84,6 @@ Hero2.crit()
 print(Hero2)
 print(len(Hero2))
 
-
 Villain.hero_name()
 Villain.multiply()
 Villain.phrase()
