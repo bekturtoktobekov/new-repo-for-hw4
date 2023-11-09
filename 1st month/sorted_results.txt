@@ -1,0 +1,14 @@
+Total students list
+Meder: mark 67
+Omurbek: mark 66
+Bektur: mark 66
+Elisei: mark 66
+Erbol: mark 58
+Bakai: mark 57
+Malik: mark 39
+Sanjar: mark 16
+THE BEST 3 STUDENTS:
+1: ('Meder', 'mark 67')
+2: ('Omurbek', 'mark 66')
+3: ('Bektur', 'mark 66')
+AVERAGE MARK: 54.375
