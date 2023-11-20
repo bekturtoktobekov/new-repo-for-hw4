@@ -15,3 +15,5 @@ __pycache__/
 
 git rm -cached файл
 git rm --cached -r namedir
+
+git clone link
