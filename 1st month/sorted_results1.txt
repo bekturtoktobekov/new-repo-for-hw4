@@ -1,9 +1,0 @@
-sorted_results
-name Meder : rate {'rate': '67'}
-name Omurbek : rate {'rate': '66'}
-name Bektur : rate {'rate': '66'}
-name Elisei : rate {'rate': '66'}
-name Erbol : rate {'rate': '58'}
-name Bakai : rate {'rate': '57'}
-name Malik : rate {'rate': '39'}
-name Sanjar : rate {'rate': '16'}
